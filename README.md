@@ -6,7 +6,7 @@
 > * [5. 화면 설계](https://github.com/NaJinWook/Smart_Factory/blob/master/5.%20%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84/5.pdf)
 > * [6. 화면 구현](https://github.com/NaJinWook/Smart_Factory/tree/master/6.%20%ED%99%94%EB%A9%B4%20%EA%B5%AC%ED%98%84/20181112-master/20181112-master)
 > * [7. 인터페이스 구현-1](https://github.com/NaJinWook/Smart_Factory/blob/master/7.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%ED%98%84/7-1.pdf)
-> * [   인터페이스 구현-2](https://github.com/NaJinWook/Smart_Factory/blob/master/7.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%ED%98%84/7-2.pdf)
+> * [　인터페이스 구현-2](https://github.com/NaJinWook/Smart_Factory/blob/master/7.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%ED%98%84/7-2.pdf)
 > * [8. 서버프로그램 구현]
 ()
 > * [9. 데이터 입출력 구현]
