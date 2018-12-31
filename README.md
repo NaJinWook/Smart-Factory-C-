@@ -8,7 +8,7 @@
 > * [　인터페이스 구현-2](https://github.com/NaJinWook/Smart_Factory/blob/master/7.%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B5%AC%ED%98%84/7-2.pdf)
 > * [8. 서버프로그램 구현]()
 > * [9. 데이터 입출력 구현]()
-> * [10. 통합 구현]()
+> * [10. 통합 구현](https://github.com/NaJinWook/Beethoven_Solutions)
 > * [11. 제품소프트웨어 패키징]()
 > * [12. 정보시스템 이행]()
 > * [13. 애플리케이션 테스트 수행]()
