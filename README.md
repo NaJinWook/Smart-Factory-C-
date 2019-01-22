@@ -10,7 +10,7 @@
 > * [9. 데이터 입출력 구현](https://github.com/NaJinWook/Smart_Factory/tree/master/9.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EA%B5%AC%ED%98%84)
 > * [10. 통합 구현](https://github.com/NaJinWook/Beethoven_Solutions)
 > * [11. 제품소프트웨어 패키징]()
-> * [12. 정보시스템 이행]()
+> * [12. 정보시스템 이행](https://github.com/NaJinWook/Web_api/blob/master/%EC%9D%B4%ED%96%89%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 > * [13. 애플리케이션 테스트 수행]()
 > * [14. 애플리케이션 테스트 관리]()
 > * [15. 애플리케이션 배포]()
