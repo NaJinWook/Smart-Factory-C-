@@ -12,6 +12,6 @@
 > * [11. 제품소프트웨어 패키징](https://github.com/NaJinWook/Smart_Factory/blob/master/11.%20%EC%A0%9C%ED%92%88%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95/%EC%A0%9C%ED%92%88%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%8C%A8%ED%82%A4%EC%A7%95%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81.pdf)
 > * [12. 정보시스템 이행](https://github.com/NaJinWook/Smart_Factory/blob/master/12.%20%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%9D%B4%ED%96%89/%EC%9D%B4%ED%96%89%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 > * [13. 애플리케이션 테스트 수행](https://github.com/NaJinWook/Smart_Factory/tree/master/13.%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%88%98%ED%96%89)
-> * [14. 애플리케이션 테스트 관리]()
+> * [14. 애플리케이션 테스트 관리](https://github.com/NaJinWook/Smart_Factory/blob/master/14.%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%AC/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A6%AC-%EB%82%98%EC%A7%84%EC%9A%B1.pdf)
 > * [15. 애플리케이션 배포]()
 > * [16 스마트팩토리 프로젝트]()
