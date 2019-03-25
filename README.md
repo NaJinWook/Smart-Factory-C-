@@ -1,6 +1,6 @@
 ![](https://www.learningtree.com/images/course/grabbers/419-grabber.png)
 
-|C# 프로그래밍|C# 프로그래밍|C# 프로그래밍|
+|C# 프로그래밍|나진욱|구디아카데미|
 |------------|------------|------------|
 |[1. 스마트팩토리 프로그래밍](https://github.com/NaJinWook/Smart_Factory/blob/master/1.%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.pdf)|[2. 프로그래밍 언어 활용](https://github.com/NaJinWook/Smart_Factory/tree/master/2.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%99%9C%EC%9A%A9)|[3. 응용 SW 기초 기술 ](https://github.com/NaJinWook/Smart_Factory/tree/master/3.%20%EC%9D%91%EC%9A%A9%20SW%20%EA%B8%B0%EC%B4%88%20%EA%B8%B0%EC%88%A0%20%ED%99%9C%EC%9A%A9/3.pdf)|
 |[4. 요구사항 확인](https://github.com/NaJinWook/Smart_Factory/blob/master/4.%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%ED%99%95%EC%9D%B8/4.pdf)|[5. 화면 설계](https://github.com/NaJinWook/Smart_Factory/blob/master/5.%20%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84/5.pdf)|[6. 화면 구현](https://github.com/NaJinWook/Smart_Factory/tree/master/6.%20%ED%99%94%EB%A9%B4%20%EA%B5%AC%ED%98%84/20181112-master/20181112-master)|
